@@ -27,7 +27,7 @@
       "isSold": false
     },
     {
-      "id": 1,
+      "id": 4,
       "name": "Рождение Венеры",
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
@@ -36,7 +36,7 @@
       "isSold": false
     },
     {
-      "id": 2,
+      "id": 5,
       "name": "Тайная вечеря",
       "author": "Леонардо да Винчи",
       "creationYear": "1498",
@@ -44,7 +44,7 @@
       "isSold": false
     },
     {
-      "id": 3,
+      "id": 6,
       "name": "Maaria mit. kind",
       "author": "Ромберт Кампен",
       "creationYear": "1402",
@@ -53,7 +53,7 @@
       "isSold": false
     },
     {
-      "id": 1,
+      "id": 7,
       "name": "Рождение Венеры",
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
@@ -62,7 +62,7 @@
       "isSold": false
     },
     {
-      "id": 2,
+      "id": 8,
       "name": "Тайная вечеря",
       "author": "Леонардо да Винчи",
       "creationYear": "1498",
@@ -70,7 +70,7 @@
       "isSold": false
     },
     {
-      "id": 3,
+      "id": 9,
       "name": "Maaria mit. kind",
       "author": "Ромберт Кампен",
       "creationYear": "1402",
@@ -79,7 +79,7 @@
       "isSold": false
     },
     {
-      "id": 1,
+      "id": 10,
       "name": "Рождение Венеры",
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
@@ -88,7 +88,7 @@
       "isSold": false
     },
     {
-      "id": 2,
+      "id": 11,
       "name": "Тайная вечеря",
       "author": "Леонардо да Винчи",
       "creationYear": "1498",
@@ -96,7 +96,7 @@
       "isSold": false
     },
     {
-      "id": 3,
+      "id": 12,
       "name": "Maaria mit. kind",
       "author": "Ромберт Кампен",
       "creationYear": "1402",
@@ -105,7 +105,7 @@
       "isSold": false
     },
     {
-      "id": 1,
+      "id": 13,
       "name": "Рождение Венеры",
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
