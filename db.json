@@ -7,16 +7,16 @@
       "creationYear": "1501",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-      },
+      "isSold": false
+    },
     {
       "id": 2,
       "name": "Тайная вечеря",
       "author": "Леонардо да Винчи",
       "creationYear": "1498",
       "price": "20 000 000 $",
-      "isSold": false,
-       },
+      "isSold": false
+    },
     {
       "id": 3,
       "name": "Maaria mit. kind",
@@ -24,8 +24,8 @@
       "creationYear": "1402",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-        },
+      "isSold": false
+    },
     {
       "id": 1,
       "name": "Рождение Венеры",
@@ -33,16 +33,16 @@
       "creationYear": "1501",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-      },
+      "isSold": false
+    },
     {
       "id": 2,
       "name": "Тайная вечеря",
       "author": "Леонардо да Винчи",
       "creationYear": "1498",
       "price": "20 000 000 $",
-      "isSold": false,
-     },
+      "isSold": false
+    },
     {
       "id": 3,
       "name": "Maaria mit. kind",
@@ -50,25 +50,25 @@
       "creationYear": "1402",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-       },
-     {
+      "isSold": false
+    },
+    {
       "id": 1,
       "name": "Рождение Венеры",
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-      },
+      "isSold": false
+    },
     {
       "id": 2,
       "name": "Тайная вечеря",
       "author": "Леонардо да Винчи",
       "creationYear": "1498",
       "price": "20 000 000 $",
-      "isSold": false,
-      },
+      "isSold": false
+    },
     {
       "id": 3,
       "name": "Maaria mit. kind",
@@ -76,25 +76,25 @@
       "creationYear": "1402",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-      },
-      {
+      "isSold": false
+    },
+    {
       "id": 1,
       "name": "Рождение Венеры",
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-       },
+      "isSold": false
+    },
     {
       "id": 2,
       "name": "Тайная вечеря",
       "author": "Леонардо да Винчи",
       "creationYear": "1498",
       "price": "20 000 000 $",
-      "isSold": false,
-     },
+      "isSold": false
+    },
     {
       "id": 3,
       "name": "Maaria mit. kind",
@@ -102,16 +102,16 @@
       "creationYear": "1402",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-      },
-        {
+      "isSold": false
+    },
+    {
       "id": 1,
       "name": "Рождение Венеры",
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
       "price": "2 000 000 $",
       "discountedPrice": "1 000 000 $",
-      "isSold": false,
-     },
+      "isSold": false
+    }
   ]
 }
