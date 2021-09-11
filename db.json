@@ -6,7 +6,7 @@
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
       "price": "200 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "150 000 $",
       "isSold": false
     },
     {
@@ -23,7 +23,7 @@
       "author": "Ромберт Кампен",
       "creationYear": "1402",
       "price": "450 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "380 000 $",
       "isSold": false
     },
     {
@@ -32,7 +32,7 @@
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
       "price": "100 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "60 000 $",
       "isSold": true
     },
     {
@@ -49,7 +49,7 @@
       "author": "Ромберт Кампен",
       "creationYear": "1402",
       "price": "450 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "180 000 $",
       "isSold": true
     },
     {
@@ -58,7 +58,7 @@
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
       "price": "450 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "420 000 $",
       "isSold": true
     },
     {
@@ -75,7 +75,7 @@
       "author": "Ромберт Кампен",
       "creationYear": "1402",
       "price": "450 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "240 000 $",
       "isSold": false
     },
     {
@@ -84,7 +84,7 @@
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
       "price": "500 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "400 000 $",
       "isSold": true
     },
     {
@@ -101,7 +101,7 @@
       "author": "Ромберт Кампен",
       "creationYear": "1402",
       "price": "800 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "500 000 $",
       "isSold": true
     },
     {
@@ -110,7 +110,7 @@
       "author": "Сандро Боттичелли",
       "creationYear": "1501",
       "price": "450 000 $",
-      "discountedPrice": "1 000 000 $",
+      "discountedPrice": "360 000 $",
       "isSold": true
     }
   ]
